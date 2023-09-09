@@ -10,7 +10,7 @@ import CartIcon from './CartIcon';
 
 import { Button } from 'components/common';
 
-import LogoNav from 'assets/images/logo-nav.png';
+import LogoNav from 'assets/images/logo.jpg';
 
 import styles from './index.module.scss';
 
@@ -66,6 +66,7 @@ const Navbar = ({ toggleSideNav, openCartModal }) => {
           Info
         </Button>
         <ul className={styles.info_list}>
+          {/* create a map instead of setting stactic stuff */}
           <li>
             <Link className={styles.link} to="/">
               Help Center
