@@ -10,7 +10,7 @@ import CartIcon from './CartIcon';
 
 import { Button } from 'components/common';
 
-import LogoNav from 'assets/images/logo.jpg';
+// import LogoNav from 'assets/images/logo.jpg';
 
 import styles from './index.module.scss';
 
