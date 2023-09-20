@@ -1,7 +1,7 @@
 import { MediaContainer } from 'components/common';
 
 import Video from 'assets/videos/hero.mp4';
-import LogoHero from 'assets/images/logo-hero.png';
+import LogoHero from 'assets/images/clubbers-loader.svg';
 
 import styles from './index.module.scss';
 
